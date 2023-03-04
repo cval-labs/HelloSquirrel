@@ -32,6 +32,7 @@ The following EXTRA features are implemented:
 Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='https://imgur.com/a/wIi56Cy' title='Hello, Squirrel - GIF Demo' width='' alt='Video Demo' />
+![HelloSquirrel](https://user-images.githubusercontent.com/123886642/222872737-f100ef08-a97e-4f81-b032-b2f503a3bc98.gif)
 
 GIF created with ScreenToGif
 
