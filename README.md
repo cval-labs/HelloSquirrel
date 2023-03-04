@@ -1,16 +1,19 @@
+<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
+
 # AND101 Project 1 - Hello, Squirrel!
 
-Submitted by: Cristina Valerio
+Submitted by: **Cristina Valerio**
 
-Time spent: 3 hours spent in total
+Time spent: **3** hours spent in total
 
 ## Summary
 
-Hello, Squirrel! is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  It includes a profile picture, name, short bio, and a list of hobbies.
+**Hello, Squirrel!** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  It includes a profile picture, name, short bio, and a list of hobbies.
 
-If I had to describe this project in three (3) emojis, they would be: 😲🌀😊
+If I had to describe this project in three (3) emojis, they would be: **😲🌀😊**
 
 ## Application Features
+<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
 The following REQUIRED features are completed:
 
@@ -33,16 +36,22 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 ![HelloSquirrel](https://user-images.githubusercontent.com/123886642/222873564-35c0d0b3-3917-4750-92a1-2c8c21b91148.gif)
 
-GIF created with ScreenToGif
+GIF created with **ScreenToGif**
+
+<!-- Recommended tools:
+- [Kap](https://getkap.co/) for macOS
+- [ScreenToGif](https://www.screentogif.com/) for Windows
+- [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+<!-- Here's a place for any other notes on the app, it's creation process, or what you learned this unit!-->
+
 This simple app was created with Kotlin in Android Studio. This app involved cloning a git repository, then applying changes, such as changing the profile name, bio text, and hobby section. I implemented stretch features for an extra challenge, which involved modifying the UI and profile picture. 
 
 ## License
 
-Copyright 2023 Cristina Valerio
+Copyright **2023** **Cristina Valerio**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
