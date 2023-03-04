@@ -28,7 +28,6 @@
                 android:layout_width="@dimen/profile_image_size"
                 android:layout_height="@dimen/profile_image_size"
                 android:layout_marginTop="60dp"
-                android:contentDescription="@string/pink flowers"
                 android:src="@drawable/flowers"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
