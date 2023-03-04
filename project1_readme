@@ -6,7 +6,8 @@ Time spent: 3 hours spent in total
 
 ## Summary
 
-Hello, Squirrel! is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  It includes a profile picture, name, short bio, and a list of hobbies.
+Hello, Squirrel! is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  
+It includes a profile picture, name, short bio, and a list of hobbies.
 
 If I had to describe this project in three (3) emojis, they would be: 😲🌀😊
 
@@ -37,8 +38,9 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
-This simple app was created with Kotlin in Android Studio. This app involved cloning a git repository, then applying changes, such as changing the profile name, bio text, and hobby section. I implemented stretch features for an extra challenge, which involved modifying the UI and profile picture. 
+This simple app was created with Kotlin in Android Studio. This app involved cloning a git repository, then applying changes, 
+such as changing the profile name, bio text, and hobby section. I implemented stretch features for an extra challenge, 
+which involved modifying the UI and profile picture. 
 
 ## License
 
